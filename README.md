@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @charlie-goldenowl
-- 👀 I’m interested in PHP, Golang and JS
+- 👀 I’m interested in PHP Laravel, Ruby RoR, Golang and JS
 
 <!---
 charlie-goldenowl/charlie-goldenowl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
