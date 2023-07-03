@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-03T03:18:51.401Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="D273ix-Bvb5ed6ykUn1o" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-03T03:20:08.381Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="qo-nS9wFQWkEZaEYd0xZ" version="21.5.2" type="github">
   <diagram name="Trang-1" id="MJ_BRHSNhFji1RFKoRyt">
     <mxGraphModel dx="1434" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -56,8 +56,8 @@
         <mxCell id="PgDhFmjBs7x280nBXUFe-41" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.sns;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="1030" y="360" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PgDhFmjBs7x280nBXUFe-48" value="services" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="545" y="70" width="60" height="30" as="geometry" />
+        <mxCell id="PgDhFmjBs7x280nBXUFe-48" value="~50 vulnerability Management and Scanning Services" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="435" y="70" width="295" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PgDhFmjBs7x280nBXUFe-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="110" width="310" height="40" as="geometry" />
