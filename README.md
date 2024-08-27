@@ -1,4 +1,4 @@
-👋 Hi, I’m @charlie-goldenowl, I’m interested in PHP, Laravel, Python, Golang, Java, NodeJS, and Ruby on Rails
+👋 Hi, I’m @charlie-goldenowl, I’m interested in PHP, Python, Golang, NodeJS, and Ruby on Rails
 <!---
 charlie-goldenowl/charlie-goldenowl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -15,7 +15,6 @@ You can click the Preview link to take a look at your changes.
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
